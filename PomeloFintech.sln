@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomeloFintech", "PomeloFintech.csproj", "{59535642-BD50-4622-9B7E-B8C269D31EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59535642-BD50-4622-9B7E-B8C269D31EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59535642-BD50-4622-9B7E-B8C269D31EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59535642-BD50-4622-9B7E-B8C269D31EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59535642-BD50-4622-9B7E-B8C269D31EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCD1F7F-399F-4F35-904D-C47983C7B005}
+	EndGlobalSection
+EndGlobal
